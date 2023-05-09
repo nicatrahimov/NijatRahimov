@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="" />
+    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="message">
+      <change afterPath="$PROJECT_DIR$/src/az/coders/lesson3/Arrayss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/lesson3/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/lesson3/StringBuilderReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/CharCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/TekrarlanmayanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac/clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2P6vCPSbse2V1a48J2oFjwhyADC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +42,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/coders/NijatRahimov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac.Array" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac.CharCounter" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac.Fibonacci" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac.Main" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TekrarlanmayanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac.TekrarlanmayanArray" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.CharCounter" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TekrarlanmayanArray" />
+        <item itemvalue="Application.Fibonacci" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +138,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682790225384</updated>
+      <workItem from="1682790228479" duration="1041000" />
+      <workItem from="1683042096369" duration="1023000" />
+      <workItem from="1683213287844" duration="7097000" />
+      <workItem from="1683453577783" duration="7713000" />
+      <workItem from="1683562766687" duration="2840000" />
+      <workItem from="1683571497447" duration="4022000" />
+      <workItem from="1683626473198" duration="2970000" />
     </task>
+    <task id="LOCAL-00001" summary="message">
+      <created>1682790671059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682790671059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message" />
+    <option name="LAST_COMMIT_MESSAGE" value="message" />
   </component>
 </project>
