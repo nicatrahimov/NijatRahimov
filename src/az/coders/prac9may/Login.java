@@ -2,24 +2,26 @@ package az.coders.prac9may;
 
 import java.util.Random;
 
-public class Login extends User{
+public class Login extends User {
     private String username;
     private String password;
 
 
-    public Login loginGenerator(User user){
+    public Login loginGenerator(User user) {
         Login l = new Login();
-        l.username='@'+user.getName().toLowerCase()+user.getSurname().toLowerCase();
+        l.username = '@' + user.getName().toLowerCase() + user.getSurname().toLowerCase();
         l.setPassword(10);
-        l.password= l.getPassword();
+        l.password = l.getPassword();
         return l;
     }
-public void setUsername(User u){
-  username='@'+u.getName().toLowerCase()+u.getSurname().toLowerCase();
 
-}
     public String getUsername() {
         return username;
+    }
+
+    public void setUsername(User u) {
+        username = '@' + u.getName().toLowerCase() + u.getSurname().toLowerCase();
+
     }
 
     public String getPassword() {
@@ -35,21 +37,18 @@ public void setUsername(User u){
         Random random = new Random();
         char[] pass = new char[length];
 
-        password= String.valueOf(combinedChars.charAt(random.nextInt(combinedChars.length())));
+        password = String.valueOf(combinedChars.charAt(random.nextInt(combinedChars.length())));
 
-        for(int i = 0; i< length ; i++) {
+        for (int i = 0; i < length; i++) {
             pass[i] = combinedChars.charAt(random.nextInt(combinedChars.length()));
         }
         for (int i = 0; i < pass.length; i++) {
-          password+=pass[i];
+            password += pass[i];
         }
     }
 
     @Override
     public String toString() {
-        return "Login{" +
-                "username='" + username + '\'' +
-                ", password='" + password + '\'' +
-                '}';
+        return "Login{" + "username='" + username + '\'' + ", password='" + password + '\'' + '}';
     }
 }

@@ -1,4 +1,5 @@
 package az.coders.prac9may;
+
 public class User {
     private String name;
     private String surname;
@@ -9,9 +10,9 @@ public class User {
     }
 
     public void setName(String name) {
-        if (name.matches("[a-zA-Z]{3,}")){
-            this.name=name;
-        }else{
+        if (name.matches("[a-zA-Z]{3,}")) {
+            this.name = name;
+        } else {
             throw new RuntimeException("The number of letters must be more than 3 or dont use symbols");
         }
     }
@@ -21,9 +22,9 @@ public class User {
     }
 
     public void setSurname(String surname) {
-        if (surname.matches("[a-zA-Z]{3,}")){
-            this.surname=surname;
-        }else{
+        if (surname.matches("[a-zA-Z]{3,}")) {
+            this.surname = surname;
+        } else {
             throw new RuntimeException("The number of letters must be more than 3 or dont use symbols");
         }
     }
@@ -39,10 +40,6 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{" +
-                "name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", age=" + age +
-                '}';
+        return "User{" + "name='" + name + '\'' + ", surname='" + surname + '\'' + ", age=" + age + '}';
     }
 }
