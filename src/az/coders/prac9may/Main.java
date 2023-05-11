@@ -13,5 +13,7 @@ public class Main {
 
         System.out.println(u);
         System.out.println(l);
+
+        ArrayMaxAndMin.findMaxAndMinNumber(10);
     }
 }

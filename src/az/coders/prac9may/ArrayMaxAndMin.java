@@ -1,8 +1,15 @@
 package az.coders.prac9may;
 
+import java.util.Scanner;
+
 public class ArrayMaxAndMin {
-    public static void main(String[] args) {
-        int[]arr={71,29,63,34,12,123,3,12,115,45};
+    public static void findMaxAndMinNumber(int length) {
+        int[]arr=new int[length];
+        for (int i = 0; i < length; i++) {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Arrayin "+(i+1)+"-ci"+" elementini daxil edin");
+            arr[i]=scanner.nextInt();
+        }
         int maxNumb=arr[0];
         int minNumb=arr[0];
         for (int i = 0; i < arr.length; i++) {

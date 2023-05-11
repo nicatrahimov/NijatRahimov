@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="hola">
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac9may/ArrayMaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac9may/SadeEdedler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/az/coders/prac9may/ArrayMaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac9may/ArrayMaxAndMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/az/coders/prac9may/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac9may/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayMaxAndMin">
+  <component name="RunManager" selected="Application.az.coders.prac9may.Main">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="az.coders.prac.Array" />
       <module name="NijatRahimov" />
@@ -114,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayMaxAndMin" />
         <item itemvalue="Application.az.coders.prac9may.Main" />
+        <item itemvalue="Application.ArrayMaxAndMin" />
         <item itemvalue="Application.NumberPrediction" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.CharCounter" />
@@ -139,7 +142,7 @@
       <workItem from="1683626473198" duration="3406000" />
       <workItem from="1683717786008" duration="1524000" />
       <workItem from="1683752666076" duration="6365000" />
-      <workItem from="1683817089895" duration="462000" />
+      <workItem from="1683817089895" duration="1386000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1682790671059</created>
@@ -190,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683817211097</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hola">
+      <created>1683817721892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683817721892</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
