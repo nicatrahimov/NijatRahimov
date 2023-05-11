@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="hola">
+      <change afterPath="$PROJECT_DIR$/src/az/coders/may11/ImportExm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise1/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise2/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise2/MathOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/ClassicalMusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/JazzMusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/TestMusic.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/az/coders/prac9may/SadeEdedler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/az/coders/prac9may/ArrayMaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac9may/ArrayMaxAndMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/az/coders/prac9may/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac9may/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/az/coders/prac9may/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac9may/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,20 +58,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.az.coders.prac9may.Main">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac.Array" />
-      <module name="NijatRahimov" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="az.coders.prac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestMusic">
     <configuration name="ArrayMaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="az.coders.prac9may.ArrayMaxAndMin" />
       <module name="NijatRahimov" />
@@ -76,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac.CharCounter" />
+    <configuration name="MathOperationsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac11may.exercise2.MathOperationsTest" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac.*" />
+          <option name="PATTERN" value="az.coders.prac11may.exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPrediction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac9may.NumberPrediction" />
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac11may.exercise1.RectangleTest" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac9may.*" />
+          <option name="PATTERN" value="az.coders.prac11may.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac11may.exercise3.TestMusic" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac11may.exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMusic" />
+        <item itemvalue="Application.MathOperationsTest" />
+        <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.az.coders.prac9may.Main" />
         <item itemvalue="Application.ArrayMaxAndMin" />
-        <item itemvalue="Application.NumberPrediction" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.CharCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +151,7 @@
       <workItem from="1683626473198" duration="3406000" />
       <workItem from="1683717786008" duration="1524000" />
       <workItem from="1683752666076" duration="6365000" />
-      <workItem from="1683817089895" duration="1386000" />
+      <workItem from="1683817089895" duration="5581000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1682790671059</created>
@@ -200,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683817721892</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hola">
+      <created>1683818654582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683818654582</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

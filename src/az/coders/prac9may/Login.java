@@ -7,6 +7,8 @@ public class Login  {
     private String password;
 
 
+
+
     public Login loginGenerator(User user) {
         Login l = new Login();
         l.username = '@' + user.getName().toLowerCase() + user.getSurname().toLowerCase();
