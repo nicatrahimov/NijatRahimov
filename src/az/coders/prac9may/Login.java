@@ -2,7 +2,7 @@ package az.coders.prac9may;
 
 import java.util.Random;
 
-public class Login extends User {
+public class Login  {
     private String username;
     private String password;
 
