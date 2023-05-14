@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="hola">
-      <change afterPath="$PROJECT_DIR$/src/az/coders/may11/ImportExm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise1/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise2/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise2/MathOperationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/ClassicalMusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/JazzMusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac11may/exercise3/TestMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac9may/SadeEdedler.java" afterDir="false" />
+    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="11may">
+      <change afterPath="$PROJECT_DIR$/src/az/coders/may13/DateExm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/may13/Exm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/AlgorithmicTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/datetask1/GetSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/datetask1/TestGetSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/datetask2/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/datetask2/TestAge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/az/coders/prac9may/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac9may/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +54,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestMusic">
-    <configuration name="ArrayMaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac9may.ArrayMaxAndMin" />
+  <component name="RunManager" selected="Application.AlgorithmicTask1">
+    <configuration name="AlgorithmicTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac13may.AlgorithmicTask1" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac9may.*" />
+          <option name="PATTERN" value="az.coders.prac13may.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOperationsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac11may.exercise2.MathOperationsTest" />
+    <configuration name="DateExm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.may13.DateExm" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac11may.exercise3.*" />
+          <option name="PATTERN" value="az.coders.may13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac11may.exercise1.RectangleTest" />
+    <configuration name="Exm2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.may13.Exm2" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac11may.exercise3.*" />
+          <option name="PATTERN" value="az.coders.may13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac11may.exercise3.TestMusic" />
+    <configuration name="TestAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac13may.datetask2.TestAge" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac11may.exercise3.*" />
+          <option name="PATTERN" value="az.coders.prac13may.datetask2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="az.coders.prac9may.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="az.coders.prac9may.Main" />
+    <configuration name="TestGetSubscription" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac13may.datetask1.TestGetSubscription" />
       <module name="NijatRahimov" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="az.coders.prac9may.*" />
+          <option name="PATTERN" value="az.coders.prac13may.datetask1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMusic" />
-        <item itemvalue="Application.MathOperationsTest" />
-        <item itemvalue="Application.RectangleTest" />
-        <item itemvalue="Application.az.coders.prac9may.Main" />
-        <item itemvalue="Application.ArrayMaxAndMin" />
+        <item itemvalue="Application.AlgorithmicTask1" />
+        <item itemvalue="Application.TestGetSubscription" />
+        <item itemvalue="Application.TestAge" />
+        <item itemvalue="Application.Exm2" />
+        <item itemvalue="Application.DateExm" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +147,10 @@
       <workItem from="1683626473198" duration="3406000" />
       <workItem from="1683717786008" duration="1524000" />
       <workItem from="1683752666076" duration="6365000" />
-      <workItem from="1683817089895" duration="5581000" />
+      <workItem from="1683817089895" duration="5666000" />
+      <workItem from="1683990617925" duration="6702000" />
+      <workItem from="1684064716366" duration="154000" />
+      <workItem from="1684074487826" duration="4274000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1682790671059</created>
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683818654582</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="11may">
+      <created>1683827176601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683827176601</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +242,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="message" />
     <MESSAGE value="hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+    <MESSAGE value="11may" />
+    <option name="LAST_COMMIT_MESSAGE" value="11may" />
   </component>
 </project>
