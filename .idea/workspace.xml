@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="14 may">
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/AlgorithmicTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/AlgorithmicTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/Task1romb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/DuzbucaqliUcbucaq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/Kvadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/TestAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/FinalAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/SelectingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/StringExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/EmailExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/PassExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/az/coders/prac13may/datetask2/TestAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac13may/datetask2/TestAge.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2P6vCPSbse2V1a48J2oFjwhyADC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/coders/NijatRahimov&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.FinalAlgorithm">
+    <configuration name="AlgorithmicTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac13may.AlgorithmicTask2" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac13may.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac18may.FinalAlgorithm" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac18may.UserTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1romb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac16may.Task1romb" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac16may.abstracttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac16may.abstracttask.TestAbstract" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac16may.abstracttask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="az.coders.prac13may.datetask2.TestAge" />
+      <module name="NijatRahimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="az.coders.prac13may.datetask2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FinalAlgorithm" />
+        <item itemvalue="Application.TestAbstract" />
+        <item itemvalue="Application.Task1romb" />
+        <item itemvalue="Application.AlgorithmicTask2" />
+        <item itemvalue="Application.TestAge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="" />
+      <created>1682790225384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682790225384</updated>
+      <workItem from="1682790228479" duration="1041000" />
+      <workItem from="1683042096369" duration="1023000" />
+      <workItem from="1683213287844" duration="7097000" />
+      <workItem from="1683453577783" duration="7713000" />
+      <workItem from="1683562766687" duration="2840000" />
+      <workItem from="1683571497447" duration="4022000" />
+      <workItem from="1683626473198" duration="3406000" />
+      <workItem from="1683717786008" duration="1524000" />
+      <workItem from="1683752666076" duration="6365000" />
+      <workItem from="1683817089895" duration="5666000" />
+      <workItem from="1683990617925" duration="6702000" />
+      <workItem from="1684064716366" duration="154000" />
+      <workItem from="1684074487826" duration="5155000" />
+      <workItem from="1684180846517" duration="2521000" />
+      <workItem from="1684211432118" duration="4812000" />
+      <workItem from="1684249798697" duration="5408000" />
+      <workItem from="1684340282495" duration="20000" />
+      <workItem from="1684428997572" duration="3323000" />
+      <workItem from="1684521187948" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="message">
+      <created>1682790671059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682790671059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="message">
+      <created>1683629788730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683629788730</updated>
+    </task>
+    <task id="LOCAL-00003" summary="message">
+      <created>1683629823757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683629823757</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hola">
+      <created>1683759824174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683759824175</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hola">
+      <created>1683759846638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683759846638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hola">
+      <created>1683759946247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683759946247</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hola">
+      <created>1683817211097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683817211097</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hola">
+      <created>1683817721892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683817721892</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hola">
+      <created>1683818654582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683818654582</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11may">
+      <created>1683827176601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683827176601</updated>
+    </task>
+    <task id="LOCAL-00011" summary="14 may">
+      <created>1684079698927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684079698927</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message" />
+    <MESSAGE value="hola" />
+    <MESSAGE value="11may" />
+    <MESSAGE value="14 may" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 may" />
+  </component>
+</project>
