@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="14 may">
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/AlgorithmicTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac13may/AlgorithmicTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/Task1romb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/DuzbucaqliUcbucaq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/Kvadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac16may/abstracttask/TestAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/FinalAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/SelectingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/StringExc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/EmailExc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/PassExc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/az/coders/prac18may/UserTask/User.java" afterDir="false" />
+    <list default="true" id="eb44a794-e767-4965-9d98-a799a7897e0f" name="Changes" comment="java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/az/coders/prac13may/datetask2/TestAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/az/coders/prac13may/datetask2/TestAge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="NijatRahimov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="NijatRahimov" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FinalAlgorithm" />
@@ -165,6 +164,9 @@
       <workItem from="1684340282495" duration="20000" />
       <workItem from="1684428997572" duration="3323000" />
       <workItem from="1684521187948" duration="8000" />
+      <workItem from="1684589599941" duration="246000" />
+      <workItem from="1684596792435" duration="97000" />
+      <workItem from="1684596921865" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1682790671059</created>
@@ -243,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684079698927</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="java">
+      <created>1684589746045</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684589746045</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +274,7 @@
     <MESSAGE value="hola" />
     <MESSAGE value="11may" />
     <MESSAGE value="14 may" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 may" />
+    <MESSAGE value="java" />
+    <option name="LAST_COMMIT_MESSAGE" value="java" />
   </component>
 </project>
